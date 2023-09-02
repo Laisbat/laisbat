@@ -27,8 +27,6 @@ I’m a Software Engineer. Currently I'm working as a Web and Mobile developer a
 😄 Pronouns: She/Her  
 🌱 I’m currently learning Node
 
-<hr>
-
 ### Languages and Tools:
 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -50,7 +48,6 @@ I’m a Software Engineer. Currently I'm working as a Web and Mobile developer a
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/991/165/png-transparent-docker-hd-logo-thumbnail.png" alt="docker" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/azure-pipelines-logo-346236509F-seeklogo.com.png" alt="azure" width="40" height="40"/> </a> 
   <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/434/923/png-transparent-grafana-hd-logo.png" alt="grafana" width="40" height="40"/> </a>  
-<hr>
 
 #### 💬 📫 How to reach me:
 

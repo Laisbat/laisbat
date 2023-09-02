@@ -22,9 +22,9 @@ I’m a Software Engineer. Currently I'm working as a Web and Mobile developer a
 🌎 Front-end Web with Reactjs  
 📡 Back-end with Nodejs  
 🛠️ Typescript  
-✅ Unit test 
-📈 Scrum
-😄 Pronouns: She/Her
+✅ Unit test  
+📈 Scrum  
+😄 Pronouns: She/Her  
 🌱 I’m currently learning Node
 
 #### 💬 📫 How to reach me:

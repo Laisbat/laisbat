@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Laís <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Software Engineer. Currently I'm working as a Full Stack developer at [**HP**](https://www.hp.com/).
+I’m a Software Engineer. Currently I'm working as a Front-end developer at [**CAIXA CONSÓRCIO**](https://www.caixaconsorcio.com.br/).
 #### My current tools 
 📲 Front-end Mobile with React Native  
 🌎 Front-end Web with Reactjs  
